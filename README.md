@@ -6,6 +6,6 @@
   </a>
 </p>
 
-Este repositorio ha sido creado para efectos docentes, para apoyar el aprendizaje de los alumnos de Ingenieria en Informática de DuocUC, desde el 2023 hasta que el destino lo permita.
-
 Hola estoy probando hacer un pull request. -marcelo
+
+Este repositorio ha sido creado para efectos docentes, para apoyar el aprendizaje de los alumnos de Ingenieria en Informática de DuocUC, desde el 2023 hasta que el destino lo permita, Amén.
